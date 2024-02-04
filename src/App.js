@@ -6,7 +6,7 @@ import CataloguePage from "./Pages/Catalogue/CataloguePage";
 import SingleBookPage from "./Pages/SingleBook/SingleBookPage";
 import AboutPage from "./Pages/About/AboutPage"
 import HomePage from "./Pages/HomePage/HomePage";
-import ScrollTop from "./Utils/ScrollTop"
+import ScrollTop from "./ScrollTop"
 // depend
 import { Route, Routes } from "react-router-dom";
 export default function App() {
